@@ -1,0 +1,16 @@
+PODS:
+  - DGElasticPullToRefresh (1.1)
+
+DEPENDENCIES:
+  - DGElasticPullToRefresh
+
+SPEC REPOS:
+  trunk:
+    - DGElasticPullToRefresh
+
+SPEC CHECKSUMS:
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+
+PODFILE CHECKSUM: fbc91d4993a14809900ea5b05ebb5121d1d5629c
+
+COCOAPODS: 1.10.1
